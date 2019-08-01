@@ -65,6 +65,7 @@ public class Invoice {
 	this.id = id;
     }
 
+    //
     @Override
     public String toString() {
 	StringBuilder builder = new StringBuilder();
